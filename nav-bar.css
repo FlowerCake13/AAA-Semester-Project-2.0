@@ -1,13 +1,13 @@
 body{
 	text-align: center;
 	margin: 0px;
-	font-family: 'Lato', sans-serif;
 }
 
 header{
-	position: absolute;
 	top: 0;
 	width: 100%;
+	display: block;
+	font-family: 'Concert One', cursive;
 }
 
 .navbar{
@@ -63,6 +63,7 @@ header{
 	text-decoration: none;
 	display: block;
 	text-align: left;
+	font-family: 'Roboto', sans-serif;
 }
 
 .dropdown-content a:hover{
@@ -82,15 +83,17 @@ header{
 }
 
 footer {
+	font-family: 'Concert One', cursive;
 	background-color: #333;
 	color: white;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
+	align-items: center;
 	font-size: 17px;
 	position: fixed;
 	bottom: 0;
-	height: auto;
+	height: 78px;
 	width: calc(100vw);
 }
 
