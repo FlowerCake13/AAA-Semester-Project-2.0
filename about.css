@@ -1,0 +1,89 @@
+section	{
+	min-height: calc(100vh - 126px);
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	width: 100%;
+}
+
+#wrapper{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+h1{
+	font-size: 70px;
+	margin: 0px;
+	padding: 15px;
+	font-family: 'Fredoka One', cursive;
+}
+
+h2{
+	font-size: 45px;
+	font-family: 'Concert One', cursive;
+}
+
+h3{
+	font-size: 30px;
+	font-family: 'Concert One', cursive;
+}
+
+p{
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#creator {
+	display: flex;
+	align-items: row;
+	justify-content: center;
+	align-items: center;
+	padding-top: 20px;
+}
+
+#creator img {
+	width: 200px;
+	padding-left: 100px;
+}
+
+#obj-wrapper{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+}
+
+#obj-wrapper p, #obj-wrapper div{
+	width: 50%;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+#obj-wrapper div p {
+	margin: 0px;
+	padding: 7px;
+}
+
+#conduction {
+	padding: 20px;
+}
+
+#project-inspo {
+	padding: 20px;
+}
+
+#project-inspo div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#project-inspo div img{
+	width: 40%;
+	padding-left: 100px;
+}

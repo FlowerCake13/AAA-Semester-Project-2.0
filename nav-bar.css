@@ -79,14 +79,6 @@ header{
 	display: block;
 }
 
-#bottom{
-	display: flex;
-	flex-direction: row;
-	align-self: center;
-	position: absolute;
-	bottom: 0;
-}
-
 footer {
 	font-family: 'Concert One', cursive;
 	background-color: #333;
@@ -96,10 +88,10 @@ footer {
 	justify-content: space-around;
 	align-items: center;
 	font-size: 17px;
-	position: fixed;
-	bottom: 0;
+	position: sticky;
 	height: 78px;
 	width: calc(100vw);
+	margin: 0px;
 }
 
 .bot-ico {
@@ -119,7 +111,7 @@ footer {
 }
 
 .footer-element h3 {
-	margin-bottom: 5px;
+	margin: 0px;
 }
 
 #title {

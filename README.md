@@ -22,11 +22,3 @@
 
 <h3>Reflection (Due 5/22)</h3>
 <p> Think about what you chose to do and why.  Hopefully this will inspire you to take action and respectfully inform others about your cause.  How can you take your work beyond our biology class?</p>
-
-<h3>Final Project Requirements</h3>
-<ul style="list-style-type:circle">
-  <li>Clearly communicate how your project fulfilled the 3 Project objectives (depending on your project, one may be more emphasized than the others)</li>
-  <li>Clearly and explicitly communicate how you conducted your project.</li>
-  <li>Thoughtfully indicate the inspiration for your project:  Why did you choose to do it?  What do you want your audience to take away after experiencing it?</li>
-  <li>A complete and accurate Works cited/Reference section, including all the sources you used in MLA format.</li>
-</ul>
