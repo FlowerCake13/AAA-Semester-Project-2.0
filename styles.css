@@ -1,5 +1,4 @@
 #img{
-	background-color: pink;
 	background-image: url('assets/main.jpg');
 	background-size: cover;
 	display: flex;
