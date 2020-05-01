@@ -1,5 +1,5 @@
 # AAA-Semester-Project-2.0
-Aloha Aina Semester Project
+<h2>Aloha Aina Semester Project</h2>
 
 <h3>Proposal (Due 4/17)</h3>
 <p>The first step is to think about what you want to do for your project.  Think about what you may want your final product to look like.  Take a look at the list above, you may choose an example from this list or create one of your own.  Please do not feel limited by the examples I have provided.  I am just trying to give you ideas and get you thinking about what you may want to do.  Remember that whatever you choose, it should address the 3 project objectives above.  If you are having trouble getting started, I strongly encourage you to see me during my office hour so that I can help you in the thinking process.</p>
