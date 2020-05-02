@@ -24,6 +24,7 @@ h1{
 h2{
 	font-size: 45px;
 	font-family: 'Concert One', cursive;
+	margin: 0px;
 }
 
 h3{
@@ -47,6 +48,10 @@ p{
 #creator img {
 	width: 200px;
 	padding-left: 100px;
+}
+
+#project{
+	padding-top: 45px;
 }
 
 #obj-wrapper{
@@ -74,7 +79,9 @@ p{
 }
 
 #project-inspo {
-	padding: 20px;
+	padding: 30px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 #project-inspo div {
@@ -86,4 +93,18 @@ p{
 #project-inspo div img{
 	width: 40%;
 	padding-left: 100px;
+}
+
+#img-wrapper{
+	height: auto;
+	width: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+}
+
+#img-wrapper img {
+	width: 25%;
+	padding: 25px;
 }
