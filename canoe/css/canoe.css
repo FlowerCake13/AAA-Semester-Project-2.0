@@ -9,5 +9,33 @@ section{
 }
 
 img {
-	width: 650px;
+	width: 100%;
+}
+
+h2 {
+	font-family: 'Concert One', cursive;
+	font-size: 35px;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+
+#content-wrapper{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 75%;
+	padding: 100px;
+}
+
+#picture-slides {
+	padding-left: 100px;
+}
+
+#def {
+	width: 100%;
+	padding-right: 100px;
+	padding-left: 100px;
 }
