@@ -1,0 +1,18 @@
+section	{
+	min-height: calc(100vh - 126px);
+	padding: 0;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+h1 {
+	font-size: 45px;
+	font-family: 'Fredoka One', cursive;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}

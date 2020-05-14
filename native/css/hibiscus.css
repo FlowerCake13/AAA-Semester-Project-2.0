@@ -1,0 +1,78 @@
+img {
+	min-width: 100px;
+}
+
+section	{
+	min-height: calc(100vh - 126px);
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	font-size: 70px;
+	margin: 0px;
+	padding: 15px;
+	font-family: 'Fredoka One', cursive;
+}
+
+h2 {
+	font-size: 45px;
+	font-family: 'Concert One', cursive;
+	margin: 0px;
+}
+
+h3 {
+	font-size: 30px;
+	font-family: 'Concert One', cursive;
+}
+
+p {
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+}
+
+i, span {
+	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+}
+
+b {
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+#ivd {
+	font-size: 30px;
+	font-family: 'Dosis', sans-serif;
+}
+
+#names{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#names img {
+	width: 25%;
+	padding: 20px;
+}
+
+#names div {
+	padding: 20px;
+}
+
+#info {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 50px;
+}
+
+#info div {
+	width: 70%;
+}
+
+#info img {
+	width: 30%;
+	margin-left: 50px;
+}

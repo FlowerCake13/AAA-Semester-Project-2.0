@@ -1,0 +1,130 @@
+img {
+	min-width: 100px;
+}
+
+section	{
+	min-height: calc(100vh - 126px);
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	font-size: 70px;
+	margin: 0px;
+	padding: 15px;
+	font-family: 'Fredoka One', cursive;
+}
+
+h2 {
+	font-size: 45px;
+	font-family: 'Concert One', cursive;
+	margin: 0px;
+}
+
+h3 {
+	font-size: 30px;
+	font-family: 'Concert One', cursive;
+}
+
+p {
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+}
+
+i, span {
+	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+}
+
+b {
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+#ivd {
+	font-size: 30px;
+	font-family: 'Dosis', sans-serif;
+}
+
+#names{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#names img {
+	width: 25%;
+	padding: 20px;
+}
+
+#names div {
+	padding: 20px;
+}
+
+#info {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 50px;
+}
+
+#info div {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#text {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#uses {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#uses img{
+	width: 75%;
+	padding-left: 50px;
+}
+
+#uses-img {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+}
+
+#uses div {
+	width: 75%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#facts {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#facts img{
+	width: 50%;
+	padding-right: 50px;
+}
+
+#facts div {
+	width: 75%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
